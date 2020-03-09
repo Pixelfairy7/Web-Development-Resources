@@ -35,6 +35,6 @@ Frameworks && Libraries. The new hotness. More React than you can shake a stick 
 
 Color palettes. Wireframing. UX. Oh My! 
 
-## :trophy: [Challenges}(challenges.md) :trophy: 
+## :trophy: [Challenges](challenges.md) :trophy: 
 
 Places where you can test your knowledge either with projects or problem solving challenges. 
